@@ -16,7 +16,7 @@ Tech Stack: *Next.js, AI APIs, Tailwind CSS*
 My personal portfolio showcasing skills, projects, and experience.  
 Tech Stack: *HTML, CSS, JavaScript, Next.js*    
 
-### 🔹 Mini Igris Assistant  
+### 🔹 [Mini Igris Assistant](https://github.com/sravananil/Mini-Igris-Assistant.git) 
 Lightweight AI assistant project using API keys to automate responses.  
 Tech Stack: *Python, OpenAI API*  
 
