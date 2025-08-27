@@ -8,11 +8,11 @@
 ---
 ## 🔥 Featured Projects  
 
-### 🔹 [Shortloom AI](https://github.com/sravananil75/shortloom-AI)
+### 🔹 [Shortloom AI](https://github.com/sravananil/shortloom-AI-.git)
 AI-powered tool for creating and managing short-form video content.  
 Tech Stack: *Next.js, AI APIs, Tailwind CSS*  
 
-### 🔹 [Portfolio Website](https://github.com/sravananil75/Myportfolio)
+### 🔹 [Portfolio Website](https://github.com/sravananil/Myportfolio.git)
 My personal portfolio showcasing skills, projects, and experience.  
 Tech Stack: *HTML, CSS, JavaScript, Next.js*    
 
